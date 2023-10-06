@@ -1,0 +1,31 @@
+.main-div {
+    height: 100vh;
+    padding: 25px;
+}
+
+.sub-div {
+    height: 90vh;
+    background-color: rgb(94, 155, 194);
+    color: white;
+    border-radius: 20px;
+}
+
+.lists li {
+    list-style-type: none;
+    padding: 10px;
+}
+
+.login {
+    box-shadow: 0 0 15px 0 #aaaaaa;
+}
+
+.main-dashboard {
+    height: 90vh;
+    background-color: rgb(94, 155, 194);
+    color: white;
+    border-radius: 20px;
+}
+
+.dashboard-lists {
+    list-style-type: none;
+}
